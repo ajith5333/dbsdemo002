@@ -1,4 +1,4 @@
 <?php
-echo "<h1<hello world</h1>";
-echo "Hello world from Heroku Server";
+echo "<h1>hello world>/h1>";
+echo "<p>Hello world from Heroku Server</p>";
 echo "<p>This is a new paragraph</p>";
